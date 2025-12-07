@@ -114,6 +114,6 @@ awards:
     icon: hero/trophy
 ---
 
-I am a fourth-year Ph.D. student in Biostatistics at Columbia University, advised by Dr. Qixuan Chen and Dr. Liangyuan Hu. Before coming to Columbia, I earned my Bachelor’s degree in Computer Software Engineering at Xiamen University in China.
+I am a fourth-year Ph.D. student in Biostatistics at Columbia University, advised by Dr. Qixuan Chen and Dr. Liangyuan Hu. In 2022, I received M.S. in Biostatistics at Columbia University. Before coming to Columbia, I earned my Bachelor’s degree in Computer Software Engineering at Xiamen University in China, advised by Dr. Fan Lin.
 
 My research focuses on the development and application of Bayesian methods, particularly in the areas of missing data, causal inference, and survey analysis. I am also interested in advancing computational tools for efficient Bayesian analysis, with the goal of making these methods more practical and scalable for applied research in biostatistics.
