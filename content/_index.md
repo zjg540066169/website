@@ -84,7 +84,7 @@ sections:
         4. **[AuxSurvey](https://cran.r-project.org/web/packages/AuxSurvey/index.html)** — Survey Analysis with Auxiliary Discretized Variables. [[R (CRAN)](https://cran.r-project.org/web/packages/AuxSurvey/index.html)] [[GitHub](https://github.com/zjg540066169/AuxSurvey)]
         5. **[SAMTx](https://cran.r-project.org/web/packages/SAMTx/index.html)** — Sensitivity Assessment to Unmeasured Confounding with Multiple Treatments. [[R (CRAN)](https://cran.r-project.org/web/packages/SAMTx/index.html)]
         6. **[BMIselect](https://cran.r-project.org/web/packages/BMIselect/index.html)** — Bayesian MI-LASSO Models for Variable Selection on Multiply-Imputed Data. [[R (CRAN)](https://cran.r-project.org/web/packages/BMIselect/index.html)] [[GitHub](https://github.com/zjg540066169/BMIselect)]
-        7. **[TMOGA](https://pypi.org/project/tmoga/)** — A Multi-Objective Genetic Algorithm for Dynamic Community Detection. [[Python package](https://pypi.org/project/tmoga/)] [[GitHub](https://github.com/zjg540066169/TMOGA)]
+        7. **[TMOGA](https://pypi.org/project/tmoga/)** — A Multi-Objective Genetic Algorithm for Dynamic Community Detection. [[Python (PyPI)](https://pypi.org/project/tmoga/)] [[GitHub](https://github.com/zjg540066169/TMOGA)]
 
   - block: markdown
     id: presentations
