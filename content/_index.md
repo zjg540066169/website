@@ -62,7 +62,7 @@ sections:
         8. Keming Zhang, Yaoyao Li, **Jungang Zou**, Sijian Wang, Bernadette A. Fausto, and Liangyuan Hu (2026). Multi-Level Variable Selection Using a BART-Enhanced Mixed-Effects Framework. *Statistics in Medicine*, 45: e70593. [[Paper](https://doi.org/10.1002/sim.70593)]
         9. Sharifa Z. Williams, **Jungang Zou**, Yutao Liu, Yajuan Si, Sandro Galea, and Qixuan Chen (2024). Improving Survey Inference Using Administrative Records without Releasing Individual-Level Continuous Data. *Statistics in Medicine*, 43(30): 5803–5813. [[Paper](https://doi.org/10.1002/sim.10270)] [[R package](https://cran.r-project.org/web/packages/AuxSurvey/index.html)]
         10. Liangyuan Hu, **Jungang Zou**, Chenyang Gu, Jiayi Ji, Michael Lopez, and Minal Kale (2022). A Flexible Sensitivity Analysis Approach for Unmeasured Confounding with Multiple Treatments and a Binary Outcome with Application to SEER-Medicare Lung Cancer Data. *The Annals of Applied Statistics*, 16(2): 1014–1037. [[Paper](https://doi.org/10.1214/21-AOAS1530)] [[R package](https://cran.r-project.org/web/packages/SAMTx/index.html)]
-        11. **Jungang Zou**, Fan Lin, Siyu Gao, Gaoshan Deng, Wenhua Zeng, and Gil Alterovitz (2021). Transfer Learning Based Multi-Objective Genetic Algorithm for Dynamic Community Detection. arXiv preprint. [[arXiv](https://arxiv.org/abs/2109.15136)] [[PyPI](https://pypi.org/project/tmoga/)]
+        11. **Jungang Zou**, Fan Lin, Siyu Gao, Gaoshan Deng, Wenhua Zeng, and Gil Alterovitz (2021). Transfer Learning Based Multi-Objective Genetic Algorithm for Dynamic Community Detection. arXiv preprint. [[arXiv](https://arxiv.org/abs/2109.15136)] [[Python package](https://pypi.org/project/tmoga/)]
         ### Collaborative Research
 
         1. Kain Kim, **Jungang Zou**, Baoyi Feng, Mengxiao Luan, Amy Jones, Danielle Gadbois, Jessica Lim, Joseph E. Schwartz, Qixuan Chen, and Nathalie Moise (2026). Predictors of Sustainability in the Collaborative Care Medicaid Program for Depression: A Cross-Sectional Study. *Psychiatric Services*, 77(8): 718–724. [[Paper](https://doi.org/10.1176/appi.ps.20250212)]
@@ -84,7 +84,7 @@ sections:
         4. **[AuxSurvey](https://cran.r-project.org/web/packages/AuxSurvey/index.html)** — Survey Analysis with Auxiliary Discretized Variables. [[R (CRAN)](https://cran.r-project.org/web/packages/AuxSurvey/index.html)] [[GitHub](https://github.com/zjg540066169/AuxSurvey)]
         5. **[SAMTx](https://cran.r-project.org/web/packages/SAMTx/index.html)** — Sensitivity Assessment to Unmeasured Confounding with Multiple Treatments. [[R (CRAN)](https://cran.r-project.org/web/packages/SAMTx/index.html)]
         6. **[BMIselect](https://cran.r-project.org/web/packages/BMIselect/index.html)** — Bayesian MI-LASSO Models for Variable Selection on Multiply-Imputed Data. [[R (CRAN)](https://cran.r-project.org/web/packages/BMIselect/index.html)] [[GitHub](https://github.com/zjg540066169/BMIselect)]
-        7. **[TMOGA](https://pypi.org/project/tmoga/)** — A Multi-Objective Genetic Algorithm for Dynamic Community Detection. [[PyPI](https://pypi.org/project/tmoga/)] [[GitHub](https://github.com/zjg540066169/TMOGA)]
+        7. **[TMOGA](https://pypi.org/project/tmoga/)** — A Multi-Objective Genetic Algorithm for Dynamic Community Detection. [[Python package](https://pypi.org/project/tmoga/)] [[GitHub](https://github.com/zjg540066169/TMOGA)]
 
   - block: markdown
     id: presentations
