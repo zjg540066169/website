@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. student
+role: Ph.D. Candidate in Biostatistics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -34,51 +34,40 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'jz3183@cumc.columbia.com'
+    url: 'mailto:jz3183@cumc.columbia.edu'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/zjg540066169
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/mynetwork/grow/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AH8HC4yT2BveUW_G_2oAZHHcZDxrrfCIu7gCgMb0nmnOs1_w-EqbmsiU_zpfSmm7Fal5eVbLGEO-_gvm4e91Hw&user=rhESlrQAAAAJ
+    url: https://scholar.google.com/citations?user=rhESlrQAAAAJ&hl=en
 
-    
 interests:
-  - Bayesian Methods
-  - Missing Data
+  - Bayesian Modeling
+  - Data Integration
+  - AI for Statistics
   - Causal Inference
+  - Missing Data
   - Survey Analysis
-  - Statistical Computing
 
 education:
-  - area: PhD in Biostatistics
+  - area: Ph.D. in Biostatistics (expected May 2027)
     institution: Columbia University
     date_start: 2022-09-01
     date_end: 2027-05-31
+    summary: |
+      Dissertation: *Data Integration Using Bayesian Machine Learning Methods*. Advisor: Dr. Qixuan Chen.
 
-  - area: MS in Biostatistics
+  - area: M.S. in Biostatistics
     institution: Columbia University
     date_start: 2019-09-01
     date_end: 2022-05-31
     summary: |
-      Gap year: 2020-2021 due to Covid-19
+      Gap year: 2020–2021 due to COVID-19.
 
-  - area: BE in Computer Software Engineer
+  - area: B.E. in Computer Software Engineering
     institution: Xiamen University
     date_start: 2015-09-01
     date_end: 2019-06-30
-
-work:
-  - position: Quantitative Developer Intern
-    company_name: WorldQuant, Beijing
-    company_url: 'https://www.worldquant.com/'
-    company_logo: ''
-    date_start: 2020-09-15
-    date_end: 2020-12-30
-    summary: |2-
-      Programming data processing modules in C++.
-
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -106,14 +95,42 @@ skills:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+#   `date_start` is used by the Awards block for sorting (newest first).
 awards:
-  - title: Travel Grant for the 14th International Conference on BNP
+  - title: Paper Award, STAI-X 2026
+    awarder: STAI-X 2026
+    date: '2026-08-01'
+    date_start: '2026-08-01'
+    icon: hero/trophy
+    summary: |
+      One of 9 awards selected from all 54 accepted papers, for *AI4BayesCode: From Natural Language Descriptions to Validated Modular Stateful Bayesian Samplers*.
+  - title: Student Paper Competition Award
+    awarder: ASA GSS/SRMS/SSS Sections, JSM 2026
+    date: '2026-08-03'
+    date_start: '2026-08-03'
+    icon: hero/trophy
+    summary: |
+      For *Bayesian MI-LASSO for Variable Selection on Multiply-Imputed Data*.
+  - title: Outstanding Doctoral Teaching Assistant Award
+    awarder: Department of Biostatistics, Columbia University
+    date: '2026-06-30'
+    date_start: '2026-06-30'
+    icon: hero/trophy
+  - title: Travel Award, IMSI Workshop on New Horizons on Model Transportability and Data Integration
+    awarder: Institute for Mathematical and Statistical Innovation (IMSI)
+    date: '2026-06-01'
+    date_start: '2026-06-01'
+    icon: hero/trophy
+  - title: Travel Award, 14th International Conference on Bayesian Nonparametrics
     url: https://bnp14.org/
+    awarder: International Society for Bayesian Analysis (ISBA)
     date: '2025-06-23'
-    awarder: International Society of Bayesian Analysis
+    date_start: '2025-06-23'
     icon: hero/trophy
 ---
 
-I am a fourth-year Ph.D. student in Biostatistics at Columbia University, advised by Dr. Qixuan Chen and Dr. Liangyuan Hu. In 2022, I received M.S. in Biostatistics at Columbia University. Before coming to Columbia, I earned my Bachelor’s degree in Computer Software Engineering at Xiamen University in China, advised by Dr. Fan Lin.
+I am a fifth-year Ph.D. candidate in Biostatistics at Columbia University, advised by Dr. Qixuan Chen. I also work closely with Dr. Liangyuan Hu at Rutgers University. I received my M.S. in Biostatistics from Columbia University in 2022 and my B.E. in Computer Software Engineering from Xiamen University in 2019.
 
-My research focuses on the development and application of Bayesian methods, particularly in the areas of missing data, causal inference, and survey analysis. I am also interested in advancing computational tools for efficient Bayesian analysis, with the goal of making these methods more practical and scalable for applied research in biostatistics.
+My research focuses on developing Bayesian methods and computational tools in three connected directions: Bayesian data integration across heterogeneous health data, missing data and causal inference, and AI for statistics. Across these directions, I develop methods motivated by practical problems and emphasize software that other researchers can use and adapt directly.
+
+I am on the 2026–2027 academic job market. My CV is available [here](uploads/resume.pdf).

@@ -1,18 +1,24 @@
 # Navigation Links
-#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-  #     desired widget in your `content/home/` folder.
-  #   The weight parameter defines the order that the links will appear in.
+#   To link a homepage section, specify the URL as `/#` followed by the section `id`
+#     defined in `content/_index.md`.
+#   The weight parameter defines the order that the links will appear in.
 
 main:
   - name: Bio
     url: /
     weight: 10
-  - name: Research
-    url: research/
-    weight: 11
+  - name: Manuscripts
+    url: /#manuscripts
+    weight: 20
+  - name: Software
+    url: /#software
+    weight: 30
+  - name: Presentations
+    url: /#presentations
+    weight: 40
   - name: Experience
     url: experience/
-    weight: 20
-  - name: Responsibility
-    url: courses/
-    weight: 40
+    weight: 50
+  - name: Teaching
+    url: teaching/
+    weight: 60

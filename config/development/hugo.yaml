@@ -1,0 +1,7 @@
+# Local development overrides (not used by the GitHub Pages production build).
+# Newer Hugo releases (>= 0.160) no longer allow `tailwindcss` in the default
+# `security.exec.allow` list, which breaks `hugo server` locally.
+security:
+  _merge: deep
+  exec:
+    allow: ['^(dart-)?sass$', '^go$', '^git$', '^node$', '^postcss$', '^tailwindcss$']
