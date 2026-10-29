@@ -33,7 +33,7 @@ sections:
   - block: markdown
     id: news
     content:
-      title: "News"
+      title: "Recent Highlights"
       text: |
         - **Dec 2026** — Invited talk on AI4BayesCode at the Technology and Artificial Intelligence Learning Seminar (TAILS), Montana State University (forthcoming).
         - **Aug 2026** — Invited talk on Bayesian propensity score predictive inference at the SILVER Lab Meeting, Department of Epidemiology and Public Health, University of Maryland School of Medicine.

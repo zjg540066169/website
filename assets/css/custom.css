@@ -1,0 +1,7 @@
+/* Site-specific CSS overrides (loaded by the theme when assets/css/custom.css exists). */
+
+/* Widen Markdown blocks (Recent Highlights, Manuscripts, Software, Presentations, Experience):
+   the theme caps them at 65ch, which looks cramped on wide screens. */
+section.blox-markdown .max-w-prose {
+  max-width: 60rem;
+}
