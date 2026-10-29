@@ -56,12 +56,19 @@ sections:
     content:
       title: "Software"
       text: |
-        1. **[AI4BayesCode](https://zjg540066169.github.io/AI4BayesCode-hub/)** — From Natural Language Descriptions to Validated Modular Stateful Bayesian Samplers. [[Website](https://zjg540066169.github.io/AI4BayesCode-hub/)] [[GitHub](https://github.com/zjg540066169/AI4BayesCode)]
-        2. **[PSPI](https://cran.r-project.org/web/packages/PSPI/index.html)** — Propensity Score Predictive Inference for Generalizability and Transportability. [[R (CRAN)](https://cran.r-project.org/web/packages/PSPI/index.html)] [[GitHub](https://github.com/zjg540066169/PSPI)]
-        3. **[SBMTrees](https://cran.r-project.org/web/packages/SBMTrees/index.html)** — Sequential Imputation with Bayesian Trees Mixed-Effects Models for Longitudinal Data. [[R (CRAN)](https://cran.r-project.org/web/packages/SBMTrees/index.html)] [[GitHub](https://github.com/zjg540066169/SBMTrees)]
-        4. **[AuxSurvey](https://cran.r-project.org/web/packages/AuxSurvey/index.html)** — Survey Analysis with Auxiliary Discretized Variables. [[R (CRAN)](https://cran.r-project.org/web/packages/AuxSurvey/index.html)] [[GitHub](https://github.com/zjg540066169/AuxSurvey)]
-        5. **[SAMTx](https://cran.r-project.org/web/packages/SAMTx/index.html)** — Sensitivity Assessment to Unmeasured Confounding with Multiple Treatments. [[R (CRAN)](https://cran.r-project.org/web/packages/SAMTx/index.html)]
-        6. **[BMIselect](https://cran.r-project.org/web/packages/BMIselect/index.html)** — Bayesian MI-LASSO Models for Variable Selection on Multiply-Imputed Data. [[R (CRAN)](https://cran.r-project.org/web/packages/BMIselect/index.html)] [[GitHub](https://github.com/zjg540066169/BMIselect)]
-        7. **[TMOGA](https://pypi.org/project/tmoga/)** — A Multi-Objective Genetic Algorithm for Dynamic Community Detection. [[Python (PyPI)](https://pypi.org/project/tmoga/)] [[GitHub](https://github.com/zjg540066169/TMOGA)]
+        1. **[AI4BayesCode](https://zjg540066169.github.io/AI4BayesCode-hub/)** — From Natural Language Descriptions to Validated Modular Stateful Bayesian Samplers.  
+            [[Website](https://zjg540066169.github.io/AI4BayesCode-hub/)] [[GitHub](https://github.com/zjg540066169/AI4BayesCode)]
+        2. **[PSPI](https://cran.r-project.org/web/packages/PSPI/index.html)** — Propensity Score Predictive Inference for Generalizability and Transportability.  
+            [[R (CRAN)](https://cran.r-project.org/web/packages/PSPI/index.html)] [[GitHub](https://github.com/zjg540066169/PSPI)]
+        3. **[SBMTrees](https://cran.r-project.org/web/packages/SBMTrees/index.html)** — Sequential Imputation with Bayesian Trees Mixed-Effects Models for Longitudinal Data.  
+            [[R (CRAN)](https://cran.r-project.org/web/packages/SBMTrees/index.html)] [[GitHub](https://github.com/zjg540066169/SBMTrees)]
+        4. **[AuxSurvey](https://cran.r-project.org/web/packages/AuxSurvey/index.html)** — Survey Analysis with Auxiliary Discretized Variables.  
+            [[R (CRAN)](https://cran.r-project.org/web/packages/AuxSurvey/index.html)] [[GitHub](https://github.com/zjg540066169/AuxSurvey)]
+        5. **[SAMTx](https://cran.r-project.org/web/packages/SAMTx/index.html)** — Sensitivity Assessment to Unmeasured Confounding with Multiple Treatments.  
+            [[R (CRAN)](https://cran.r-project.org/web/packages/SAMTx/index.html)]
+        6. **[BMIselect](https://cran.r-project.org/web/packages/BMIselect/index.html)** — Bayesian MI-LASSO Models for Variable Selection on Multiply-Imputed Data.  
+            [[R (CRAN)](https://cran.r-project.org/web/packages/BMIselect/index.html)] [[GitHub](https://github.com/zjg540066169/BMIselect)]
+        7. **[TMOGA](https://pypi.org/project/tmoga/)** — A Multi-Objective Genetic Algorithm for Dynamic Community Detection.  
+            [[Python (PyPI)](https://pypi.org/project/tmoga/)] [[GitHub](https://github.com/zjg540066169/TMOGA)]
 
 ---
