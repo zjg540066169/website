@@ -103,7 +103,7 @@ awards:
     icon: hero/trophy
     summary: |
       One of 9 awards selected from all 54 accepted papers, for *AI4BayesCode: From Natural Language Descriptions to Validated Modular Stateful Bayesian Samplers*.
-  - title: Student Paper Competition Award, ASA GSS/SRMS/SSS Sections
+  - title: ASA Student Paper Competition Award, GSS/SRMS/SSS Sections
     awarder: JSM 2026
     date_start: '2026-08-03'
     icon: hero/trophy
