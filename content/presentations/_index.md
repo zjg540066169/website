@@ -14,8 +14,9 @@ sections:
         ### Invited Presentations
 
         1. *AI4BayesCode: From Natural Language Descriptions to Validated Modular Stateful Bayesian Samplers.* Technology and Artificial Intelligence Learning Seminar (TAILS), Montana State University. December 2026 (forthcoming).
-        2. *Bayesian Propensity Score Predictive Inference for Extending Trial Findings to Target Populations.* SILVER Lab Meeting, Department of Epidemiology and Public Health, University of Maryland School of Medicine. August 2026.
-        3. *Nonparametric Bayesian Additive Regression Trees for Prediction and Missing Data Imputation in Longitudinal Studies.* ENAR 2023 Spring Meeting, Nashville, TN, USA. Invited session: Bayesian Machine Learning for Decision-Making with Incomplete Information. March 2023.
+        2. Qixuan Chen, **Jungang Zou**, and Alex Ziyu Jiang. *AI4BayesCode: Bringing Modern Bayesian Modeling Within Reach for Public Health Research.* TRAIL AI Research Studio, Translational AI Laboratory, Columbia University Mailman School of Public Health. November 2026 (forthcoming).
+        3. *Bayesian Propensity Score Predictive Inference for Extending Trial Findings to Target Populations.* SILVER Lab Meeting, Department of Epidemiology and Public Health, University of Maryland School of Medicine. August 2026.
+        4. *Nonparametric Bayesian Additive Regression Trees for Prediction and Missing Data Imputation in Longitudinal Studies.* ENAR 2023 Spring Meeting, Nashville, TN, USA. Invited session: Bayesian Machine Learning for Decision-Making with Incomplete Information. March 2023.
         ### Contributed Talks
 
         1. *Bayesian MI-LASSO for Variable Selection on Multiply-Imputed Data: Application to an Environmental Health Survey.* JSM 2026, Boston, MA, USA. August 2026.
