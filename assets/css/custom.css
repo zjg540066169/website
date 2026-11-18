@@ -5,3 +5,12 @@
 section.blox-markdown .max-w-prose {
   max-width: 60rem;
 }
+
+/* Navbar title: keep "Jungang Zou's Personal Website" on one line with the
+   search / theme / menu icons on phones by scaling the font with the viewport. */
+@media (max-width: 639.98px) {
+  .navbar-brand {
+    font-size: clamp(0.8rem, 3.6vw, 1.25rem);
+    white-space: nowrap;
+  }
+}

@@ -35,7 +35,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: 'Jungang Zou'
+      text: "Jungang Zou's Personal Website"
 
 # Site footer
 footer:
